@@ -33,3 +33,7 @@ svg {
   /* Center and fit */
   preserveAspectRatio: xMidYMid meet;
 }
+
+svg path:nth-child(2) {
+  stroke: goldenrod;
+}
